@@ -1,0 +1,23 @@
+{
+  "name": "SASS-workshop",
+  "version": "1.0.0",
+  "description": "Hello, welcome to this workshop. This repo is for the [code-lab](https://www.meetup.com/jslovers-bengaluru/events/268851360/) organized by the [Progate](https://progate.com/) in collabration with [JSLovers](https://jslovers.com) in Bangalore.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamedmehdigara/SASS-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohamedmehdigara/SASS-workshop/issues"
+  },
+  "homepage": "https://github.com/mohamedmehdigara/SASS-workshop#readme",
+  "devDependencies": {
+    "sass": "^1.32.8"
+  }
+}
